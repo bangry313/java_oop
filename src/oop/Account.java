@@ -134,6 +134,8 @@ public class Account {
 		}
 		return false;
 	}
+	
+	// Git 연습 코드 추가입니다...
 		
 }
 
